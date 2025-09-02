@@ -132,6 +132,11 @@ pip install -r requirements.txt
 - Ensure file paths and input file names are correctly set in each script.
 - For large datasets, consider optimizing the scripts for performance.
 
+##  Authors & Contributors  
+
+- [Rahul Naga](https://github.com/RAHUL-NAGA)  
+- [Dr. Sougata Saha](https://github.com/Sougata-Saha-Lab)  
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
